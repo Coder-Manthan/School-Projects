@@ -1,9 +1,4 @@
-// In this we will talk about `Header files and Operators`
-
 #include <iostream>
-// There are 2 types of header files
-// (1) System Header files // It comes with the compiler
-// (2) User defined header files // It is written by the programmer or coder or developer
 using namespace std;
 
 int main() {
